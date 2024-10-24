@@ -1,0 +1,25 @@
+h2 {
+    color: rgb(219, 203, 148);
+}
+h3 {
+    color: rgb(211, 206, 178);
+}
+h1 {
+    color: rgb(185, 163, 120);
+}
+p {
+    color: grey;
+    font-style: italic;
+}
+dl {
+    color: rgb(131, 95, 65);
+}
+html {
+    background-color: bisque;
+}
+body {
+    background-color: rgb(255, 249, 237);
+    margin: 20%;
+    border-radius: 5%;
+    
+}
